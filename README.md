@@ -25,3 +25,9 @@ keyboard I use when gaming is a strong contender), so that's all that's in here 
 
 If I get round to un-shitification-ing the keyboard too, I'll add scripts/READMEs for what 
 I did in this here repo. I would't hold your breath since I use a different keyboard to code...
+
+That said, it (the keyboard) does seem to treat a long-press on CAPS as ESC.. Since CAPS itself is
+a literally useless -- even more so when gaming... My muscle memory treats it as though it doesn't 
+exist when my fingers are on WASD, so sometimes I'll lean on it and when I stop doing so, the silly
+keyboard will hit escape, getting me killed... So yeah, will probably figure that one out at some 
+point also.
